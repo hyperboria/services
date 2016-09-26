@@ -10,5 +10,5 @@ http://h.glitchedpixels.com | kylerschin | `fc24:61c9:d005:b078:3365:bd30:f4db:5
 http://h.ipfs.io | IPFS | `fc29:9fda:3b73:c1d2:9302:31e3:964c:144c` OR `fcd8:a4e5:3af7:557e:72e5:f9d1:a599:e329` | IPFS on Hyperboria
 http://h.transitiontech.ca | [ansuz](https://keybase.io/ansuz) | `fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3` | ansuz' blog
 http://cjdns.ncry.pt/ | novaking | `fcd7:164f:b5be:7542:513b:3661:3d4f:3601` | encrypted paste service
-[fc00gle](http://[fc00:be30:c395:9143:f773:b21f:bd8c:c373]/) | ??? | `fc00:be30:c395:9143:f773:b21f:bd8c:c373` | Hyperboria Search Engine
+[fc00gle](http://[fc00:be30:c395:9143:f773:b21f:bd8c:c373]/) | ??? | `fc00:be30:c395:9143:f773:b21f:bd8c:c373` | Hyperboria-accessible Search Engine (for clearnet)
 
