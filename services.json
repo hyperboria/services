@@ -1,0 +1,43 @@
+[
+  {
+    "title": "http://h.glitchedpixels.com",
+    "operator": "kylerschin",
+    "ip": [
+      "fc24:61c9:d005:b078:3365:bd30:f4db:55c4"
+    ],
+    "description": "Blog of Kyler Chin"
+  },
+  {
+    "title": "http://h.ipfs.io",
+    "operator": "IPFS",
+    "ip": [
+      "fc29:9fda:3b73:c1d2:9302:31e3:964c:144c",
+      "fcd8:a4e5:3af7:557e:72e5:f9d1:a599:e329"
+    ],
+    "description": "IPFS on Hyperboria"
+  },
+  {
+    "title": "http://h.transitiontech.ca",
+    "operator": "[ansuz](https://keybase.io/ansuz)",
+    "ip": [
+      "fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3"
+    ],
+    "description": "ansuz' blog"
+  },
+  {
+    "title": "http://cjdns.ncry.pt/",
+    "operator": "novaking",
+    "ip": [
+      "fcd7:164f:b5be:7542:513b:3661:3d4f:3601"
+    ],
+    "description": "encrypted paste service"
+  },
+  {
+    "title": "[fc00gle](http://[fc00:be30:c395:9143:f773:b21f:bd8c:c373]/)",
+    "operator": "???",
+    "ip": [
+      "fc00:be30:c395:9143:f773:b21f:bd8c:c373"
+    ],
+    "description": "Hyperboria-accessible Search Engine (for clearnet)"
+  }
+]
