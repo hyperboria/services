@@ -1,0 +1,24 @@
+{
+  "name": "hyperboria-services",
+  "version": "1.0.0",
+  "description": "known services on hyperboria",
+  "main": "services.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperboria/services.git"
+  },
+  "keywords": [
+    "hyperboria",
+    "cjdns",
+    "services"
+  ],
+  "author": "ansuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperboria/services/issues"
+  },
+  "homepage": "https://github.com/hyperboria/services#readme"
+}
