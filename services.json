@@ -47,5 +47,13 @@
       "fc34:8675:ed95:600c:38d7:6eb8:f5b9:5bfa"
     ],
     "description": "an ircd hosted by the fc00 project"
+  },
+  {
+    "title": "map.hype.ovh",
+    "operator": "Magik6k",
+    "ip": [
+      "fc02:2735:e595:bb70:8ffc:5293:8af8:c4b7"
+    ],
+    "description": "a map of Hyperboria"
   }
 ]
