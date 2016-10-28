@@ -1,13 +1,5 @@
 [
   {
-    "title": "http://h.glitchedpixels.com",
-    "operator": "kylerschin",
-    "ip": [
-      "fc24:61c9:d005:b078:3365:bd30:f4db:55c4"
-    ],
-    "description": "Blog of Kyler Chin"
-  },
-  {
     "title": "http://h.ipfs.io",
     "operator": "IPFS",
     "ip": [
