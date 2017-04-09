@@ -25,14 +25,6 @@
     "description": "encrypted paste service"
   },
   {
-    "title": "[fc00gle](http://[fc00:be30:c395:9143:f773:b21f:bd8c:c373]/)",
-    "operator": "???",
-    "ip": [
-      "fc00:be30:c395:9143:f773:b21f:bd8c:c373"
-    ],
-    "description": "Hyperboria-accessible Search Engine (for clearnet)"
-  },
-  {
     "title": "irc.fc00.io",
     "operator": "ansuz",
     "ip": [
