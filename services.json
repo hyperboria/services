@@ -39,5 +39,13 @@
       "fc02:2735:e595:bb70:8ffc:5293:8af8:c4b7"
     ],
     "description": "a map of Hyperboria"
+  },
+  {
+    "title": "http://cjdns.h-ic.eu/",
+    "operator": "lex",
+    "ip": [
+      "fcdd:b5cd:3ffe:bfc:8ee2:67a8:61cf:ab77"
+    ],
+    "description": "Matrix homeserver with cjdns and internet federation, also accessible over the internet at https://h-ic.eu/"
   }
 ]
