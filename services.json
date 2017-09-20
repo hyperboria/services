@@ -47,5 +47,13 @@
       "fcdd:b5cd:3ffe:bfc:8ee2:67a8:61cf:ab77"
     ],
     "description": "Matrix homeserver with cjdns and internet federation, also accessible over the internet at https://h-ic.eu/"
-  }
+  },
+  {
+    "title": "Don't Sell.Me (https://mesh.dontsell.me)",
+    "operator": "netsyms",
+    "ip": [
+      "fc81:7e39:ae21:1d67:e89c:9ff0:3f7e:5e5c"
+    ],
+    "description": "An open-source, privacy-respecting alternative to Google Docs and other services.  Also available over the Internet at https://dontsell.me and via Tor and I2P (see site for details)."
+  },
 ]
