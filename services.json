@@ -56,4 +56,20 @@
     ],
     "description": "An open-source, privacy-respecting alternative to Google Docs and other services.  Also available over the Internet at https://dontsell.me and via Tor and I2P (see site for details)."
   },
+  {
+    "title": "IPFS Gateway",
+    "operator": "Jorropo",
+    "ip": [
+      "fc88:6524:aa8b:1ee2:c0c0:44e:d517:a128"
+    ],
+    "description": "This is a regular (and unofficial) IPFS gateway accessible by http://[fc81:7e39:ae21:1d67:e89c:9ff0:3f7e:5e5c]/ipfs/ or ipfs node multiaddr's /ip6/fc88:6524:aa8b:1ee2:c0c0:44e:d517:a128/tcp/4001/ipfs/QmeSn1aFaDAtnM2ZjADu3F1LvuMsf63QGMRkd5hJjn8hZU or via clearnet https://jorropo.ovh/ipfs/."
+  },
+  {
+    "title": "Tor Relay",
+    "operator": "Jorropo",
+    "ip": [
+      "fc88:6524:aa8b:1ee2:c0c0:44e:d517:a128"
+    ],
+    "description": "This is a tor relay, you can use it for accessing tor by adding it as bridge (and activate bridge) with [fc88:6524:aa8b:1ee2:c0c0:44e:d517:a128]:9001."
+  }
 ]
